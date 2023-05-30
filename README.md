@@ -1,2 +1,2 @@
-# sql_learning
+# SQL_Notes
 SQL Notes
